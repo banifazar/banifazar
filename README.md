@@ -1,4 +1,4 @@
-# About Me:
+
 I'm currently learning Next.js & React Native 
 
 
