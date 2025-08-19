@@ -1,5 +1,5 @@
-# 💫 About Me:
-🧑🏻‍💻I'm currently learning Next.js & React Native 
+# About Me:
+I'm currently learning Next.js & React Native 
 
 
 # 💻 Tech Stack:
