@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, My name is Bani Faza Rasyadan</h1>
+<h1 align="center">Hi 👋, I'm Bani</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
 
 - 🌱 I’m currently learning **Next.JS & React Native courses**
