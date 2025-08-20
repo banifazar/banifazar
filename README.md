@@ -1,5 +1,4 @@
-
-I'm currently learning Next.js & React Native 
+Currently learning Next.js & React Native 
 
 
 # 💻 Tech Stack:
